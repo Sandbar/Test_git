@@ -9,3 +9,4 @@ merge冲突了，修改后继续上传merge后的日记文件
 master来更新一下merge中的--no-ff进行一下合并然后测试一下结果！！！！
 git merge with --no-ff in this test
 how to do it?
+alter issue-101 problem!
